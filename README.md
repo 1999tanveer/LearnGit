@@ -1,2 +1,2 @@
 # LearnGit
-LearningGit...
+LearningG
